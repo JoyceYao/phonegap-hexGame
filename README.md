@@ -1,2 +1,2 @@
-# phonegap-boku
-Phonegap wrapper for boku
+# phonegap-hexGame
+Phonegap wrapper for hexGame
